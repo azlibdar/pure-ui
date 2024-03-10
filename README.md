@@ -11,7 +11,7 @@ Welcome to Pure UI, a repository dedicated to building components, patterns, and
 
 | S.No | Project Name | Source Code | Preview |
 |------|--------------|-------------|---------|
-| 1    | Masonry Grid Layout | [Link](https://github.com/azlibdar/masonry-grid) | [Preview](https://azlibdar.github.io/masonry-grid/) |
+| 01    | Masonry Grid Layout | [Link](https://github.com/azlibdar/masonry-grid) | [Preview](https://azlibdar.github.io/masonry-grid/) |
 
 
 *Note: More projects will be added soon.*
